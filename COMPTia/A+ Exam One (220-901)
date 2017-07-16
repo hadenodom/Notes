@@ -1,0 +1,25 @@
+CompTIA Test 1 (220-901)
+
+Things you need to study more:
+
+
+- Diff between Southbridge and Northbridge
+	?
+- RAM Types 
+	DDR2 SDRAM	---	Fetches 4 bits of data per clock cycle	--- 	uses 1.8V
+	DDR SDRAM		---	Fetches 2 bits per clock cycle		--- 	uses 2.5V
+	SDRAM			---									--- 	uses 1.8V
+	?
+- CPU Socket types
+	?
+- Cable Ranges
+	?
+- How an inkjet printer pushes ink onto paper:
+	Inkjet printers use either of two methods to push ink onto the print medium, typically paper. One method is to precisely vibrate a piezoelectric crystal, which then pumps ink through a nozzle. 
+	Answer:  "piezoelectric crystal"
+
+- Common Ports
+	53	---	DNS
+	80	---	HTTP
+	?	---	?
+

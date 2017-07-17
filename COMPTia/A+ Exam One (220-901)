@@ -7,19 +7,75 @@ Things you need to study more:
 	?
 - RAM Types 
 	DDR2 SDRAM	---	Fetches 4 bits of data per clock cycle	--- 	uses 1.8V
-	DDR SDRAM		---	Fetches 2 bits per clock cycle		--- 	uses 2.5V
+	DDR SDRAM		---	Fetches 2 bits per clock cycle		--- 	uses 2.5V	---	DIMM module type (168 pins, double sided)
 	SDRAM			---									--- 	uses 1.8V
 	?
 - CPU Socket types
+	LGA 1366	---	Core i7 9xx Series (Extreme Edition), Xeon, 
+	LGA 775		---	Pentium 4, Pentium D, Celeron, Core 2 Duo, Core 2 Quad, Core 2 Extreme
+	LGA 1155	--- 	Second-Gen/Sandy Bridge Core i3, Core i5, Core i7	
+	AM2		---	AMD Athlon 64, Phenom, Sempron, Opteron
 	?
+
 - Cable Ranges
 	?
+
 - How an inkjet printer pushes ink onto paper:
 	Inkjet printers use either of two methods to push ink onto the print medium, typically paper. One method is to precisely vibrate a piezoelectric crystal, which then pumps ink through a nozzle. 
 	Answer:  "piezoelectric crystal"
 
 - Common Ports
+	20	---	FTP	
+	23	---	Telnet
+	25	---	SMTP	
 	53	---	DNS
 	80	---	HTTP
+	
 	?	---	?
+
+- Bluetooth Range
+	Class 1	---	100 meters
+	Class 2	---	10 meters
+	Class 3	--- 	Less than 10m
+
+- FAT filesystems do not have individual permissions for files
+
+- Power Supply pinouts and voltages
+	- "Power good" signal sent from PS to motherboard is +5V
+	- ISA/AT Bus adapter cards get -5V
+	- newer CD/DVD drives, hard drives, and Pentium/Athlon CPUs get +12V
+	- older NICs and serial ports get -12V
+	- certain video cards and the mobo get +3.3V (but this has nothing to do with the Power Good signal, on a seperate connector
+
+- IPv6 Addressing
+	- IPv6 addresses intended for Internet use begin with 2000::
+	- addresses for multicast begin with FF00::
+	- link-local addresses begin with FE80::
+	- An address starting with ::FFFF would indicate an IPv4 address was following
+
+- Wifi (802.11) specs:
+	- 802.11ac 	500Mbps	 5    GHz band       /* 500Mbps = 5 "Gbps" (nobody uses this IRL but the test may!) */
+	- 802.11a 	54Mbps 	 5    GHz band
+	- 802.11g	54Mbps 	 2.4 GHz band
+	- 802.11b	11Mbps 	 2.4 GHz band
+
+- Coaxial cables:
+	================================================
+	RG-58 	-	10 Mbps	185 meters	-Networking (thinnet)
+	================================================
+	RG-59 	-	10 Mbps	250 meters	-Television
+			-	100 Mbps	150 meters
+	================================================
+	RG-6	-	10 Mbps	300 m		-CATV networks
+			-	100 Mbps	200 m
+	================================================
+	RG-8	-	10 Mbps	500m		-Thicknet
+	================================================
+
+- USB:
+	USB1.1	-	12 Mbps
+	USB2.0	- 	480 Mbps	-	up to 5 meters
+	USB3.0	-	5 Gbps
+	USB3.1	-	10 Gbps
+
 

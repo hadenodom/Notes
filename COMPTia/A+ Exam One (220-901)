@@ -1,4 +1,5 @@
 CompTIA Test 1 (220-901)
+"CompTIA is unaware that google exists and their test only needs to ask scenario questions with "I'd google that" as the answer for each one" edition
 
 Things you need to study more:
 
@@ -13,7 +14,8 @@ Things you need to study more:
 - CPU Socket types
 	LGA 1366	---	Core i7 9xx Series (Extreme Edition), Xeon, 
 	LGA 775		---	Pentium 4, Pentium D, Celeron, Core 2 Duo, Core 2 Quad, Core 2 Extreme
-	LGA 1155	--- 	Second-Gen/Sandy Bridge Core i3, Core i5, Core i7	
+	LGA 1155	--- 	Second-Gen/Sandy Bridge Core i3, Core i5, Core i7
+	LGA 1150	---	Haswell and Broadwell
 	AM2		---	AMD Athlon 64, Phenom, Sempron, Opteron
 	?
 
@@ -78,4 +80,13 @@ Things you need to study more:
 	USB3.0	-	5 Gbps
 	USB3.1	-	10 Gbps
 
+- HDMI Pinouts:
+	Type A has 19 pins
+	Type B has 29
+	?
 
+- Private IP Addressing Classes
+	Class	From		To
+	Class 'A'	10.0.0.0		10.255.255.254
+	Class 'B'	172.16.0.0	172.31.255.254
+	Class 'C'	192.168.0.0	192.168.255.254
